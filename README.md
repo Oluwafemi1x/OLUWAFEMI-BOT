@@ -122,7 +122,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![SPAN&SCOPE BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/Cloudbuster_CLE)
+* [![SPAN&SCOPE BOTZ](https://img.shields.io/static/v1?label=CLOUDBUSTER&message=BOTZ&color=critical)](https://t.me/Cloudbuster_CLE)
 
 ## Credit 💞
 
