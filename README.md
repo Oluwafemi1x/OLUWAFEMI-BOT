@@ -132,7 +132,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
+[![GNU Affero General Public License 3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 3.0.](Oluwafemi1x/span_scope-Bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
