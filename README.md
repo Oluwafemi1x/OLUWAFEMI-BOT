@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b> OLUWAFEMI-BOT </b>
+  <b>CLOUDBUSTER-BOT </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
